@@ -1,28 +1,36 @@
-<h1 align="center">¡Hola! Soy Juan José Maldonado Navarro 👋</h1>
+<h1 align="center">Hello, I'm Juan José Maldonado Navarro 👋</h1>
 <h3 align="center">Backend .NET & Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Disponible_para_Trabajar-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Focus-Backend_.NET_%7C_Clean_Architecture-blue?style=for-the-badge" alt="Focus">
+  <a href="https://cert.efset.org/en/BWqZZk" target="_blank">
+    <img src="https://img.shields.io/badge/EF_SET_Certified-B2_Upper_Intermediate-purple?style=for-the-badge&logo=english" alt="EF SET B2 Certificate">
+  </a>
   <img src="https://img.shields.io/badge/Location-Barranquilla%2C_Colombia-orange?style=for-the-badge" alt="Location">
 </p>
 
 <p align="center">
-  Desarrollador de Software enfocado en construir arquitecturas robustas, API RESTful eficientes y código limpio en el ecosistema <b>.NET / C#</b>. Apasionado por la aplicación de Domain-Driven Design (DDD), principios SOLID y patrones de diseño para entregar software escalable y mantenible.
+  Software Developer focused on building robust architectures, efficient RESTful APIs, and clean code in the <b>.NET / C#</b> ecosystem. Passionate about applying Domain-Driven Design (DDD), SOLID principles, and design patterns to deliver scalable and maintainable software. Certified <b>B2 Upper Intermediate</b> in English (EF SET) with professional reading proficiency (C2).
 </p>
 
 ---
 
-### 🚀 Sobre Mí
+### 🚀 About Me
 
-* 🎓 **Formación Académica:** Tecnólogo en Análisis y Desarrollo de Software (ADSO) en el **SENA**.
-* ⚡ **Entrenamiento Intensivo:** Coder en formación en **Riwi** (Cohorte 5, Clan C#).
-* 💼 **Experiencia Real:** Desarrollador Freelance y creador de plataformas con Clean Architecture y despliegues en producción.
-* 🎯 **Especialización:** Backend con **.NET / C#**, **PostgreSQL**, **EF Core** y **React + TypeScript**.
+* 🎓 **Academic Background:** Technologist in Software Analysis and Development (ADSO) at **SENA**.
+* ⚡ **Intensive Tech Training:** Coder in training at **Riwi** (Cohort 5, C# Clan).
+* 📜 **English Proficiency:** Certified **B2 Upper Intermediate** by [EF SET Certificate](https://cert.efset.org/en/BWqZZk) (Score: 57/100).
+  * 📖 **Reading:** C2 Proficient (75/100) — *Advanced technical documentation comprehension.*
+  * 🎧 **Listening:** B2 Upper Intermediate (55/100)
+  * ✍️ **Writing:** B2 Upper Intermediate (51/100)
+  * 🗣️ **Speaking:** B1 Intermediate (46/100) — *Actively practicing daily at Riwi and through self-study.*
+* 💼 **Real Experience:** Freelance Developer and creator of platforms featuring Clean Architecture and production deployments.
+* 🎯 **Specialization:** Backend with **.NET / C#**, **PostgreSQL**, **EF Core**, and **React + TypeScript**.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -64,56 +72,56 @@
 
 ---
 
-## 💼 Proyectos Destacados
+## 💼 Featured Projects
 
 ### 🏆 1. FrameRent — Audiovisual Equipment Rental Platform
-> **Backend & Clean Architecture (.NET)** | [🔗 Ver Repositorio en GitHub](https://github.com/juanjo2409/FrameRent)
+> **Backend & Clean Architecture (.NET)** | [🔗 View Repository on GitHub](https://github.com/juanjo2409/FrameRent)
 
-Plataforma full-stack de alquiler de equipos audiovisuales diseñada con estrictos estándares de arquitectura empresarial.
+Full-stack audiovisual equipment rental platform built under strict enterprise software architecture standards.
 
-* **Arquitectura y Patrones:** Desarrollado bajo **Clean Architecture**, principios **SOLID**, entidades de dominio ricas con máquinas de estado y objetos de valor (*Value Objects*).
-* **Reglas de Negocio Clave:** 
-  * Verificación de disponibilidad de stock mediante consultas LINQ de solape de fechas (*date-overlap*).
-  * Gestión de flujos de alquiler (`Pending` -> `Approved` -> `Delivered` -> `Returned`) con cálculo automático de tarifas por retraso (*LateFee*).
-  * Restricción de solicitudes (máximo 15 días, máximo 3 alquileres activos por cliente).
-* **Características Técnicas:** Contenedorizado con **Docker Compose**, autenticación con **ASP.NET Core Identity & JWT**, cliente MVC consumiendo la API mediante `HttpClient` tipado.
-* **Stack Tecnológico:** `.NET`, `ASP.NET Core Web API / MVC`, `EF Core`, `PostgreSQL`, `Docker`.
+* **Architecture & Patterns:** Developed using **Clean Architecture**, **SOLID** principles, rich domain entities with state machines, and **Value Objects**.
+* **Key Business Rules:** 
+  * Stock availability verification via LINQ date-overlap queries.
+  * Rental lifecycle management (`Pending` -> `Approved` -> `Delivered` -> `Returned`) with automated late fee calculation (`LateFee`).
+  * Request constraints (maximum 15 days, max 3 active rentals per customer).
+* **Technical Highlights:** Containerized with **Docker Compose**, authenticated via **ASP.NET Core Identity & JWT**, and featuring an MVC client consuming the API through a typed `HttpClient`.
+* **Tech Stack:** `.NET`, `ASP.NET Core Web API / MVC`, `EF Core`, `PostgreSQL`, `Docker`.
 
 ---
 
 ### 📚 2. SkillHub — Workshop & Enrollment Management Platform
-> **Backend & Clean Architecture (.NET 10)** | [🔗 Ver Repositorio en GitHub](https://github.com/juanjo2409/SkillHub)
+> **Backend & Clean Architecture (.NET 10)** | [🔗 View Repository on GitHub](https://github.com/juanjo2409/SkillHub)
 
-Plataforma corporativa de gestión para centros de capacitación enfocada en el control riguroso de reglas de negocio e inscripciones.
+Enterprise training center management platform focused on rigorous business rule enforcement and enrollment control.
 
-* **Arquitectura y Patrones:** Implementa **Clean Architecture**, **Domain-Driven Design (DDD)** y principios **SOLID**.
-* **Reglas de Negocio:** Control de aforo, prevención de inscripciones duplicadas, validación de conflictos de horario y políticas de cancelación/re-inscripción con auditoría.
-* **Características Avanzadas:** 
-  * Importación masiva de datos desde Excel con **EPPlus**.
-  * Generación de certificados académicos en PDF mediante **QuestPDF**.
-  * Documentación interactiva de la API con **Scalar**.
-* **Stack Tecnológico:** `.NET 10`, `ASP.NET Core API / MVC`, `EF Core 10`, `PostgreSQL`, `Tailwind CSS`.
-
----
-
-### 🧠 3. PsicoBitacoras — Plataforma de Cartillas Psicológicas
-> **Full Stack** | [🔗 Visitar Sitio Web en Producción](https://www.daleunclick.online) | [🔗 Ver Repositorio en GitHub](https://github.com/juanjo2409/psicobitacoras)
-
-Aplicación web Full-Stack diseñada con un enfoque profesional y clínico para el acompañamiento y bienestar emocional.
-
-* **Descripción:** Permite a los usuarios acceder a cartillas terapéuticas interactivas, registrar reflexiones personales y gestionar citas psicológicas de manera asistida.
-* **Impacto y Estado:** Desplegado y funcionando activamente en producción para usuarios reales.
-* **Stack Tecnológico:** Frontend con `React (Vite)` y `Tailwind CSS v4` | Backend con `Node.js` y `Express.js` | Base de datos relacional en `MySQL`.
+* **Architecture & Patterns:** Implements **Clean Architecture**, **Domain-Driven Design (DDD)**, and **SOLID** principles.
+* **Business Rules:** Capacity control, prevention of duplicate enrollments, automatic schedule conflict validation, and audit-logged cancellation/re-enrollment policies.
+* **Advanced Features:** 
+  * Bulk data import from Excel using **EPPlus**.
+  * Automated generation of academic PDF certificates via **QuestPDF**.
+  * Interactive API documentation with **Scalar**.
+* **Tech Stack:** `.NET 10`, `ASP.NET Core API / MVC`, `EF Core 10`, `PostgreSQL`, `Tailwind CSS`.
 
 ---
 
-### 📊 Estadísticas y Actividad en GitHub
+### 🧠 3. PsicoBitacoras — Psychological Workbooks Platform
+> **Full Stack** | [🔗 Visit Live Website](https://www.daleunclick.online) | [🔗 View Repository on GitHub](https://github.com/juanjo2409/psicobitacoras)
+
+Full-stack web application designed with a professional and clinical approach for emotional well-being and support.
+
+* **Description:** Enables users to access interactive therapeutic workbooks, record personal reflections, and schedule psychological appointments seamlessly.
+* **Impact & Status:** Deployed and actively running in production for real users.
+* **Tech Stack:** Frontend with `React (Vite)` and `Tailwind CSS v4` | Backend with `Node.js` and `Express.js` | Relational database in `MySQL`.
+
+---
+
+### 📊 GitHub Statistics & Activity
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Commits_Totales-200%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
-  <img src="https://img.shields.io/badge/Repositorios_Activos-10%2B-success?style=for-the-badge&logo=git&logoColor=white" alt="Repos" />
-  <img src="https://img.shields.io/badge/Enfoque-.NET_10_%7C_Clean_Architecture-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Total_Commits-200%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/Active_Repos-10%2B-success?style=for-the-badge&logo=git&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/Focus-.NET_10_%7C_Clean_Architecture-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus" />
 
   <br><br>
 
@@ -123,7 +131,7 @@ Aplicación web Full-Stack diseñada con un enfoque profesional y clínico para 
 
 ---
 
-### 📫 ¿Hablamos?
+### 📫 Let's Connect?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-jose-maldonado-navarro" target="_blank">
