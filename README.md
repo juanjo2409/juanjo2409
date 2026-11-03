@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Focus-Backend_.NET_%7C_Clean_Architecture-blue?style=for-the-badge" alt="Focus">
-  <a href="https://cert.efset.org/en/BWqZZk" target="_blank">
+  <a href="https://cert.efset.org/en/BWqZZk" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/EF_SET_Certified-B2_Upper_Intermediate-purple?style=for-the-badge&logo=english" alt="EF SET B2 Certificate">
   </a>
   <img src="https://img.shields.io/badge/Location-Barranquilla%2C_Colombia-orange?style=for-the-badge" alt="Location">
@@ -20,7 +20,7 @@
 
 * 🎓 **Academic Background:** Technologist in Software Analysis and Development (ADSO) at **SENA**.
 * ⚡ **Intensive Tech Training:** Coder in training at **Riwi** (Cohort 5, C# Clan).
-* 📜 **English Proficiency:** Certified **B2 Upper Intermediate** by [EF SET Certificate](https://cert.efset.org/en/BWqZZk) (Score: 57/100).
+* 📜 **English Proficiency:** Certified **B2 Upper Intermediate** by [EF SET Certificate](https://cert.efset.org/en/BWqZZk){:target="_blank" rel="noopener noreferrer"} (Score: 57/100).
   * 📖 **Reading:** C2 Proficient (75/100) — *Advanced technical documentation comprehension.*
   * 🎧 **Listening:** B2 Upper Intermediate (55/100)
   * ✍️ **Writing:** B2 Upper Intermediate (51/100)
@@ -75,7 +75,7 @@
 ## 💼 Featured Projects
 
 ### 🏆 1. FrameRent — Audiovisual Equipment Rental Platform
-> **Backend & Clean Architecture (.NET)** | [🔗 View Repository on GitHub](https://github.com/juanjo2409/FrameRent)
+> **Backend & Clean Architecture (.NET)** | <a href="https://github.com/juanjo2409/FrameRent" target="_blank" rel="noopener noreferrer">🔗 View Repository on GitHub</a>
 
 Full-stack audiovisual equipment rental platform built under strict enterprise software architecture standards.
 
@@ -90,7 +90,7 @@ Full-stack audiovisual equipment rental platform built under strict enterprise s
 ---
 
 ### 📚 2. SkillHub — Workshop & Enrollment Management Platform
-> **Backend & Clean Architecture (.NET 10)** | [🔗 View Repository on GitHub](https://github.com/juanjo2409/SkillHub)
+> **Backend & Clean Architecture (.NET 10)** | <a href="https://github.com/juanjo2409/SkillHub" target="_blank" rel="noopener noreferrer">🔗 View Repository on GitHub</a>
 
 Enterprise training center management platform focused on rigorous business rule enforcement and enrollment control.
 
@@ -105,7 +105,7 @@ Enterprise training center management platform focused on rigorous business rule
 ---
 
 ### 🧠 3. PsicoBitacoras — Psychological Workbooks Platform
-> **Full Stack** | [🔗 Visit Live Website](https://www.daleunclick.online) | [🔗 View Repository on GitHub](https://github.com/juanjo2409/psicobitacoras)
+> **Full Stack** | <a href="https://www.daleunclick.online" target="_blank" rel="noopener noreferrer">🔗 Visit Live Website</a> | <a href="https://github.com/juanjo2409/psicobitacoras" target="_blank" rel="noopener noreferrer">🔗 View Repository on GitHub</a>
 
 Full-stack web application designed with a professional and clinical approach for emotional well-being and support.
 
@@ -134,13 +134,13 @@ Full-stack web application designed with a professional and clinical approach fo
 ### 📫 Let's Connect?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-jose-maldonado-navarro" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-jose-maldonado-navarro" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:juanjosemn160@gmail.com">
+  <a href="mailto:juanjosemn160@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/juanjo2409">
+  <a href="https://github.com/juanjo2409" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
