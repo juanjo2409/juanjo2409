@@ -74,9 +74,9 @@ Plataforma full-stack de alquiler de equipos audiovisuales diseñada con estrict
 * **Arquitectura y Patrones:** Desarrollado bajo **Clean Architecture**, principios **SOLID**, entidades de dominio ricas con máquinas de estado y objetos de valor (*Value Objects*).
 * **Reglas de Negocio Clave:** 
   * Verificación de disponibilidad de stock mediante consultas LINQ de solape de fechas (*date-overlap*).
-  * Gestión de flujos de alquiler (Pending -> Approved -> Delivered -> Returned) con cálculo automático de tarifas por retraso (*LateFee*).
+  * Gestión de flujos de alquiler (`Pending` -> `Approved` -> `Delivered` -> `Returned`) con cálculo automático de tarifas por retraso (*LateFee*).
   * Restricción de solicitudes (máximo 15 días, máximo 3 alquileres activos por cliente).
-* **Características Técnicas:** Contenedorizado con **Docker Compose**, autenticación con **ASP.NET Core Identity & JWT**, cliente MVC consumiendo la API mediante `HttpClient` tipado y documentación en Swagger.
+* **Características Técnicas:** Contenedorizado con **Docker Compose**, autenticación con **ASP.NET Core Identity & JWT**, cliente MVC consumiendo la API mediante `HttpClient` tipado.
 * **Stack Tecnológico:** `.NET`, `ASP.NET Core Web API / MVC`, `EF Core`, `PostgreSQL`, `Docker`.
 
 ---
@@ -87,6 +87,7 @@ Plataforma full-stack de alquiler de equipos audiovisuales diseñada con estrict
 Plataforma corporativa de gestión para centros de capacitación enfocada en el control riguroso de reglas de negocio e inscripciones.
 
 * **Arquitectura y Patrones:** Implementa **Clean Architecture**, **Domain-Driven Design (DDD)** y principios **SOLID**.
+* **Reglas de Negocio:** Control de aforo, prevención de inscripciones duplicadas, validación de conflictos de horario y políticas de cancelación/re-inscripción con auditoría.
 * **Características Avanzadas:** 
   * Importación masiva de datos desde Excel con **EPPlus**.
   * Generación de certificados académicos en PDF mediante **QuestPDF**.
@@ -95,14 +96,14 @@ Plataforma corporativa de gestión para centros de capacitación enfocada en el 
 
 ---
 
-### 🌐 3. PsicoBitacoras — Dale Un Click a tus Emociones
-> **Full Stack Freelance** | [🔗 Visitar Sitio Web en Producción](https://www.daleunclick.online)
+### 🧠 3. PsicoBitacoras — Plataforma de Cartillas Psicológicas
+> **Full Stack** | [🔗 Visitar Sitio Web en Producción](https://www.daleunclick.online) | [🔗 Ver Repositorio en GitHub](https://github.com/juanjo2409/psicobitacoras)
 
-Aplicación web interactiva desarrollada de manera independiente y orientada al bienestar emocional y la salud mental.
+Aplicación web Full-Stack diseñada con un enfoque profesional y clínico para el acompañamiento y bienestar emocional.
 
-* **Descripción:** Sistema web completo que integra catálogo de bitácoras digitales, secciones informativas del equipo médico y gestión de solicitudes terapéuticas.
+* **Descripción:** Permite a los usuarios acceder a cartillas terapéuticas interactivas, registrar reflexiones personales y gestionar citas psicológicas de manera asistida.
 * **Impacto y Estado:** Desplegado y funcionando activamente en producción para usuarios reales.
-* **Stack Tecnológico:** Frontend con **React** y **TypeScript** | Backend con **Express** | Base de datos en **MySQL**.
+* **Stack Tecnológico:** Frontend con `React (Vite)` y `Tailwind CSS v4` | Backend con `Node.js` y `Express.js` | Base de datos relacional en `MySQL`.
 
 ---
 
@@ -112,7 +113,7 @@ Aplicación web interactiva desarrollada de manera independiente y orientada al 
 
   <img src="https://img.shields.io/badge/Commits_Totales-200%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
   <img src="https://img.shields.io/badge/Repositorios_Activos-10%2B-success?style=for-the-badge&logo=git&logoColor=white" alt="Repos" />
-  <img src="https://img.shields.io/badge/Enfoque-.NET_%7C_Clean_Architecture-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Enfoque-.NET_10_%7C_Clean_Architecture-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus" />
 
   <br><br>
 
