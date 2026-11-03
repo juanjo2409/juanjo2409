@@ -37,29 +37,28 @@ Plataforma web interactiva orientada al bienestar emocional y la salud mental.
 
 ---
 
-### 📊 Estadísticas y Actividad en GitHub
 
+
+### 📊 Estadísticas y Actividad en GitHub
 
 <div align="center">
 
-| Estadísticas Generales | Lenguajes más Usados |
-| :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanjo2409&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjo2409&layout=compact&theme=radical&hide_border=true) |
-
-</div>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=juanjo2409&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjo2409&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjo2409&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanjo2409&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjo2409&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjo2409&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
+</div>
 
 ---
 
