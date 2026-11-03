@@ -20,7 +20,7 @@
 
 * 🎓 **Academic Background:** Technologist in Software Analysis and Development (ADSO) at **SENA**.
 * ⚡ **Intensive Tech Training:** Coder in training at **Riwi** (Cohort 5, C# Clan).
-* 📜 **English Proficiency:** Certified **B2 Upper Intermediate** by [EF SET Certificate](https://cert.efset.org/en/BWqZZk){:target="_blank" rel="noopener noreferrer"} (Score: 57/100).
+* 📜 **English Proficiency:** Certified **B2 Upper Intermediate** by [EF SET Certificate](https://cert.efset.org/en/BWqZZk) (Score: 57/100).
   * 📖 **Reading:** C2 Proficient (75/100) — *Advanced technical documentation comprehension.*
   * 🎧 **Listening:** B2 Upper Intermediate (55/100)
   * ✍️ **Writing:** B2 Upper Intermediate (51/100)
