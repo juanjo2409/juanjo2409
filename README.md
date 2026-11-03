@@ -1,16 +1,50 @@
-## Hi there 👋
+# ¡Hola, soy Juan José Maldonado Navarro! 👋
 
-<!--
-**juanjo2409/juanjo2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Buscando_Nuevas_Oportunidades-brightgreen?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Stack-Full_Stack_/_Backend-blue?style=flat-square" alt="Stack">
+</p>
 
-Here are some ideas to get you started:
+Soy un **Desarrollador de Software** apasionado por construir aplicaciones web funcionales, limpias y escalables. Actualmente me encuentro consolidando mi perfil técnico con un fuerte enfoque en el desarrollo full stack y la creación de soluciones eficientes que aportan valor real a los usuarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mí
+* 🎓 Tecnólogo en Análisis y Desarrollo de Software en formación (**SENA**).
+* 💻 Formación intensiva en programación y desarrollo de software en **Riwi**.
+* 🌟 Experiencia en proyectos reales, independientes y académicos aplicando buenas prácticas.
+* 📍 Basado en Barranquilla, Colombia.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+* **Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Bootstrap.
+* **Backend:** Node.js, Express, C#, .NET Core (en constante evolución).
+* **Bases de Datos:** MySQL, SQL Server, Entity Framework Core.
+* **Control de Versiones & DevOps:** Git, GitHub, Docker, Linux (Ubuntu).
+* **Herramientas:** VS Code, Postman, Figma.
+
+---
+
+### 💼 Proyecto Destacado
+
+#### [PsicoBitacoras - Dale Un Click a tus Emociones](https://www.daleunclick.online)
+Plataforma web interactiva orientada al bienestar emocional y la salud mental.
+* **Descripción:** Desarrollo freelance full stack que integra un catálogo de bitácoras digitales, secciones informativas del equipo médico y gestión de solicitudes terapéuticas.
+* **Tecnologías utilizadas:** Frontend con **React y TypeScript** | Backend con **Express** | Base de datos con **MySQL**.
+* **Estado:** Desplegado y funcionando en producción.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanjo2409&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+</p>
+
+---
+
+### 📫 ¿Cómo contactarme?
+* **LinkedIn:** [Juan José Maldonado Navarro](https://www.linkedin.com/in/juan-jose-maldonado-navarro)
+* **Correo electrónico:** [juanjosemn160@gmail.com](mailto:juanjosemn160@gmail.com)
