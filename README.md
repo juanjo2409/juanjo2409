@@ -17,8 +17,8 @@
 
 * 🎓 **Formación Académica:** Tecnólogo en Análisis y Desarrollo de Software (ADSO) en el **SENA**.
 * ⚡ **Entrenamiento Intensivo:** Coder en formación en **Riwi** (Cohorte 5, Clan C#).
-* 💼 **Experiencia Real:** Desarrollador Freelance y de proyectos con Clean Architecture & DDD.
-* 🎯 **Especialización:** Backend con **.NET 10 / C#**, **PostgreSQL**, **EF Core** y **React + TypeScript**.
+* 💼 **Experiencia Real:** Desarrollador Freelance y creador de plataformas con Clean Architecture y despliegues en producción.
+* 🎯 **Especialización:** Backend con **.NET / C#**, **PostgreSQL**, **EF Core** y **React + TypeScript**.
 
 ---
 
@@ -28,7 +28,7 @@
 
   <!-- Core & Backend -->
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET_10-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
+  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/ASP.NET_Core_API-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core Web API" />
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
@@ -46,7 +46,7 @@
 
   <!-- Databases & ORM -->
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/EF_Core_10-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core 10" />
+  <img src="https://img.shields.io/badge/EF_Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
   <img src="https://img.shields.io/badge/MySQL-%23000f0f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 
@@ -66,30 +66,43 @@
 
 ## 💼 Proyectos Destacados
 
-### 🏆 1. SkillHub — Workshop & Enrollment Management Platform
-> **Backend & Clean Architecture (.NET 10)** | [🔗 Ver Repositorio en GitHub](https://github.com/juanjo2409/SkillHub)
+### 🏆 1. FrameRent — Audiovisual Equipment Rental Platform
+> **Backend & Clean Architecture (.NET)** | [🔗 Ver Repositorio en GitHub](https://github.com/juanjo2409/FrameRent)
 
-Plataforma de gestión para centros de capacitación desarrollada bajo los más altos estándares de ingeniería de software.
+Plataforma full-stack de alquiler de equipos audiovisuales diseñada con estrictos estándares de arquitectura empresarial.
 
-* **Arquitectura y Patrones:** Implementa **Clean Architecture**, **Domain-Driven Design (DDD)** y principios **SOLID**.
-* **Reglas de Negocio Clave:** Control estricto de aforo, prevención de inscripciones duplicadas, validación automática de conflictos de horario y políticas de cancelación/re-inscripción con auditoría.
-* **Características Avanzadas:** 
-  * Importación masiva de datos desde archivos Excel mediante **EPPlus**.
-  * Generación automatizada de certificados académicos en PDF con **QuestPDF**.
-  * Documentación interactiva de la API REST utilizando **Scalar** (`Scalar.AspNetCore`).
-  * Autenticación segura con **ASP.NET Core Identity** y **JWT Bearer**.
-* **Stack Tecnológico:** `.NET 10`, `ASP.NET Core API / MVC`, `EF Core 10`, `PostgreSQL 15+`, `Tailwind CSS`.
+* **Arquitectura y Patrones:** Desarrollado bajo **Clean Architecture**, principios **SOLID**, entidades de dominio ricas con máquinas de estado y objetos de valor (*Value Objects*).
+* **Reglas de Negocio Clave:** 
+  * Verificación de disponibilidad de stock mediante consultas LINQ de solape de fechas (*date-overlap*).
+  * Gestión de flujos de alquiler (Pending -> Approved -> Delivered -> Returned) con cálculo automático de tarifas por retraso (*LateFee*).
+  * Restricción de solicitudes (máximo 15 días, máximo 3 alquileres activos por cliente).
+* **Características Técnicas:** Contenedorizado con **Docker Compose**, autenticación con **ASP.NET Core Identity & JWT**, cliente MVC consumiendo la API mediante `HttpClient` tipado y documentación en Swagger.
+* **Stack Tecnológico:** `.NET`, `ASP.NET Core Web API / MVC`, `EF Core`, `PostgreSQL`, `Docker`.
 
 ---
 
-### 🌐 2. PsicoBitacoras — Dale Un Click a tus Emociones
+### 📚 2. SkillHub — Workshop & Enrollment Management Platform
+> **Backend & Clean Architecture (.NET 10)** | [🔗 Ver Repositorio en GitHub](https://github.com/juanjo2409/SkillHub)
+
+Plataforma corporativa de gestión para centros de capacitación enfocada en el control riguroso de reglas de negocio e inscripciones.
+
+* **Arquitectura y Patrones:** Implementa **Clean Architecture**, **Domain-Driven Design (DDD)** y principios **SOLID**.
+* **Características Avanzadas:** 
+  * Importación masiva de datos desde Excel con **EPPlus**.
+  * Generación de certificados académicos en PDF mediante **QuestPDF**.
+  * Documentación interactiva de la API con **Scalar**.
+* **Stack Tecnológico:** `.NET 10`, `ASP.NET Core API / MVC`, `EF Core 10`, `PostgreSQL`, `Tailwind CSS`.
+
+---
+
+### 🌐 3. PsicoBitacoras — Dale Un Click a tus Emociones
 > **Full Stack Freelance** | [🔗 Visitar Sitio Web en Producción](https://www.daleunclick.online)
 
-Aplicación web interactiva desarrollada de manera independiente y orientada al bienestar emocional y la salud mental de los usuarios.
+Aplicación web interactiva desarrollada de manera independiente y orientada al bienestar emocional y la salud mental.
 
-* **Descripción:** Sistema web completo que integra un catálogo interactivo de bitácoras digitales, secciones informativas del equipo médico y gestión de solicitudes terapéuticas.
-* **Impacto y Estado:** Desplegado y funcionando activamente en producción, atendiendo a usuarios reales.
-* **Stack Tecnológico:** Frontend con **React** y **TypeScript** | Backend con **Express** | Base de datos relacional en **MySQL**.
+* **Descripción:** Sistema web completo que integra catálogo de bitácoras digitales, secciones informativas del equipo médico y gestión de solicitudes terapéuticas.
+* **Impacto y Estado:** Desplegado y funcionando activamente en producción para usuarios reales.
+* **Stack Tecnológico:** Frontend con **React** y **TypeScript** | Backend con **Express** | Base de datos en **MySQL**.
 
 ---
 
@@ -99,7 +112,7 @@ Aplicación web interactiva desarrollada de manera independiente y orientada al 
 
   <img src="https://img.shields.io/badge/Commits_Totales-200%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
   <img src="https://img.shields.io/badge/Repositorios_Activos-10%2B-success?style=for-the-badge&logo=git&logoColor=white" alt="Repos" />
-  <img src="https://img.shields.io/badge/Enfoque-.NET_10_%7C_Clean_Architecture-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Enfoque-.NET_%7C_Clean_Architecture-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus" />
 
   <br><br>
 
@@ -119,3 +132,6 @@ Aplicación web interactiva desarrollada de manera independiente y orientada al 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/juanjo2409">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
