@@ -39,6 +39,21 @@ Plataforma web interactiva orientada al bienestar emocional y la salud mental.
 
 ### 📊 Estadísticas y Actividad en GitHub
 
+
+<div align="center">
+
+| Estadísticas Generales | Lenguajes más Usados |
+| :---: | :---: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanjo2409&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjo2409&layout=compact&theme=radical&hide_border=true) |
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjo2409&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juanjo2409&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjo2409&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
