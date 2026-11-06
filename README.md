@@ -6,6 +6,7 @@
 
 <br>
 
+<!-- Quick Action Links -->
 <p align="center">
   <a href="https://juanjo2409.github.io">
     <img src="https://img.shields.io/badge/Live_Portfolio-juanjo2409.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
@@ -21,6 +22,7 @@
   </a>
 </p>
 
+<!-- Status Pills -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open_to_Work_(Remote_%2F_Hybrid)-10B981?style=flat-square" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Focus-.NET_8%2F9%2F10_%7C_Clean_Architecture_%7C_SOLID-512BD4?style=flat-square" alt="Core Focus" />
@@ -31,6 +33,87 @@
   Software Engineer specialized in designing and building resilient, high-performance <b>RESTful APIs</b> and modern full-stack applications within the <b>.NET / C#</b> ecosystem. Driven by strict software craftsmanship—applying <b>Clean Architecture</b>, <b>Domain-Driven Design (DDD)</b>, and <b>SOLID principles</b> to deliver decoupled, testable, and scalable enterprise solutions. Experienced in cloud deployments with <b>Microsoft Azure</b>, containerization with <b>Docker</b>, and strongly-typed reactive frontends using <b>Angular</b> and <b>React + TypeScript</b>.
 </p>
 
+<br>
+
+<!-- Visual Hero Tech Icons Strip (High Visual Impact for Recruiters) -->
+<p align="center">
+  <a href="https://juanjo2409.github.io">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,angular,react,ts,js,tailwind,bootstrap,nodejs,express,postgres,mysql,docker,githubactions,git,github,linux,postman,vscode&perline=10" alt="Tech Stack Icons" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🛠️ Technical Stack & Ecosystem
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th width="20%" align="center">Domain</th>
+        <th width="32%" align="center">Visual Stack</th>
+        <th width="48%" align="center">Frameworks, Patterns & Capabilities</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b>🟣 Backend &<br>Architecture</b></td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" height="45" alt="Backend Icons" />
+        </td>
+        <td>
+          <img src="https://img.shields.io/badge/.NET_8_%2F_9_%2F_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+          <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+          <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
+          <img src="https://img.shields.io/badge/Clean_Architecture-2563EB?style=flat-square" alt="Clean Architecture" />
+          <img src="https://img.shields.io/badge/DDD_%26_SOLID-10B981?style=flat-square" alt="DDD & SOLID" />
+          <img src="https://img.shields.io/badge/JWT_%26_Identity-F59E0B?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>🔴 Frontend<br>Engineering</b></td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=angular,react,ts,js,tailwind,bootstrap" height="45" alt="Frontend Icons" />
+        </td>
+        <td>
+          <img src="https://img.shields.io/badge/Angular_(Signals_%26_RxJS)-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+          <img src="https://img.shields.io/badge/React_(Vite_%26_Hooks)-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+          <img src="https://img.shields.io/badge/Responsive_UI%2FUX-7C3AED?style=flat-square" alt="UI/UX" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>🐘 Databases &<br>Persistence</b></td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=postgres,mysql" height="45" alt="Database Icons" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" />
+        </td>
+        <td>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+          <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+          <img src="https://img.shields.io/badge/LINQ_Optimization-512BD4?style=flat-square" alt="LINQ" />
+          <img src="https://img.shields.io/badge/Code--First_Migrations-2563EB?style=flat-square" alt="Migrations" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>☁️ Cloud, DevOps<br>& Tooling</b></td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=azure,docker,githubactions,git,linux,postman,vscode" height="45" alt="DevOps Icons" />
+        </td>
+        <td>
+          <img src="https://img.shields.io/badge/Azure_(App_Services_%2F_Key_Vault)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+          <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+          <img src="https://img.shields.io/badge/CI%2FCD_(GitHub_Actions)-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+          <img src="https://img.shields.io/badge/Scalar_%2F_OpenAPI-10B981?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
+          <img src="https://img.shields.io/badge/QuestPDF_%26_EPPlus-7C3AED?style=flat-square" alt="Libraries" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
@@ -48,67 +131,14 @@ I build backend systems designed for long-term maintainability and business rule
 
 ---
 
-## 🛠️ Technical Stack & Ecosystem
-
-<table>
-  <thead>
-    <tr>
-      <th width="22%">Domain</th>
-      <th width="78%">Technologies & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🟣 Backend & Architecture</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/.NET_8_%2F_9_%2F_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-        <img src="https://img.shields.io/badge/ASP.NET_Core_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core Web API" />
-        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🔴 Frontend Engineering</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🐘 Databases & Data</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/LINQ_%26_Migrations-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>☁️ Cloud, DevOps & Tools</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
 ## 💼 Featured Engineering Case Studies
 
 ### 📚 1. SkillHub — Enterprise Workshop & Enrollment Management Platform
 > **Backend & Clean Architecture (.NET 10)** · [🔗 **Explore Repository**](https://github.com/juanjo2409/SkillHub)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,tailwind,git" height="35" alt="SkillHub Stack" />
+</p>
 
 Enterprise training center platform engineered to enforce complex academic scheduling and enrollment invariants.
 
@@ -118,12 +148,15 @@ Enterprise training center platform engineered to enforce complex academic sched
   * High-speed bulk data ingestion from Excel spreadsheets via **EPPlus**.
   * Automated generation of verifiable academic PDF certificates using **QuestPDF**.
   * Modern, interactive OpenAPI documentation powered by **Scalar**.
-* **Stack:** `.NET 10` · `ASP.NET Core Web API & MVC` · `EF Core 10` · `PostgreSQL` · `QuestPDF` · `EPPlus` · `Tailwind CSS`
 
 ---
 
 ### 🏆 2. FrameRent — Audiovisual Equipment Rental & Lifecycle System
 > **Backend & Clean Architecture (.NET)** · [🔗 **Explore Repository**](https://github.com/juanjo2409/FrameRent)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,git" height="35" alt="FrameRent Stack" />
+</p>
 
 Full-stack rental management platform engineered under strict enterprise architecture standards to handle inventory availability and contract lifecycles.
 
@@ -133,18 +166,20 @@ Full-stack rental management platform engineered under strict enterprise archite
   * End-to-end rental state machine (`Pending` ➔ `Approved` ➔ `Delivered` ➔ `Returned`) with automated **late-fee calculation (`LateFee`)**.
   * Strict policy enforcement (maximum 15-day rental duration and up to 3 concurrent active rentals per customer).
 * **Technical Highlights:** Fully containerized with **Docker Compose**, secured via **ASP.NET Core Identity & JWT**, and paired with an MVC client consuming the API via strongly-typed `HttpClient` services.
-* **Stack:** `.NET` · `ASP.NET Core Web API / MVC` · `EF Core` · `PostgreSQL` · `Docker Compose` · `JWT & Identity`
 
 ---
 
 ### 🧠 3. PsicoBitácoras — Clinical & Emotional Well-Being Platform *(In Production)*
 > **Full Stack Production System** · [🌐 **Visit Live Platform**](https://www.daleunclick.online) · [🔗 **Explore Repository**](https://github.com/juanjo2409/psicobitacoras)
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mysql" height="35" alt="PsicoBitacoras Stack" />
+</p>
+
 Production web application built with a clinical and user-centric approach to support mental health therapy and patient follow-up.
 
 * **Product Impact:** Actively deployed in production serving real users—enabling interactive therapeutic workbooks, personal reflection tracking, and seamless clinical appointment scheduling.
 * **Engineering Highlights:** Modular REST API architecture, relational data modeling, responsive mobile-first design, and production deployment management.
-* **Stack:** `React (Vite)` · `Tailwind CSS v4` · `Node.js` · `Express.js` · `MySQL`
 
 ---
 
